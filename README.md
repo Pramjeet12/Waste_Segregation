@@ -1,2 +1,2 @@
-# Machine_learning_project
+# Waste Segregation using Deep learning
 Waste segregator CNN model
